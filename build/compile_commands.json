@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/USER/Documents/cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -g -o CMakeFiles\\cpp.dir\\main.cpp.obj -c C:\\Users\\USER\\Documents\\cpp\\main.cpp",
+  "file": "C:\\Users\\USER\\Documents\\cpp\\main.cpp"
+},
+{
+  "directory": "C:/Users/USER/Documents/cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe -g -o CMakeFiles\\cpp.dir\\sqlite3.c.obj -c C:\\Users\\USER\\Documents\\cpp\\sqlite3.c",
+  "file": "C:\\Users\\USER\\Documents\\cpp\\sqlite3.c"
+},
+{
+  "directory": "C:/Users/USER/Documents/cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -g -o CMakeFiles\\cpp.dir\\Wordbot.cpp.obj -c C:\\Users\\USER\\Documents\\cpp\\Wordbot.cpp",
+  "file": "C:\\Users\\USER\\Documents\\cpp\\Wordbot.cpp"
+},
+{
+  "directory": "C:/Users/USER/Documents/cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -g -o CMakeFiles\\cpp.dir\\Wordles.cpp.obj -c C:\\Users\\USER\\Documents\\cpp\\Wordles.cpp",
+  "file": "C:\\Users\\USER\\Documents\\cpp\\Wordles.cpp"
+}
+]
